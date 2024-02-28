@@ -11,7 +11,7 @@ function App() {
             </div>
             <div className="img-container-2 p-2 ">
                 <div className="heading p-3 pb-4">
-                    <img src="./asserts/logo.png"/>
+                    <img src="./asserts/logo.png"  alt="Logo"/>
 
                 </div>
                 <p className="bold-heading"><b>C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.
@@ -24,7 +24,7 @@ function App() {
                     </li>
                 </ul>
 <div className="img-container">
-<img src="./asserts/2.png"/>
+<img src="./asserts/2.png" alt="img"/>
 </div>
                 <p>Government of India has awarded the "National Energy Conservation Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.
 
